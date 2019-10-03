@@ -1,0 +1,12 @@
+cd (arrastrar carpeta)
+git clone (pegar link) (pa descargar)
+cd cs_nombre_de_repositorio
+ls (para ver que archivos hay)
+
+5 minutos mínimo
+
+git add -A
+git commit -m "se agrega las instrucciones del ejercicio :fire:"
+git push
+rm para borrar.
+git checkout - b newsong (para hacer una rama)
